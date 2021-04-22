@@ -1,0 +1,1 @@
+This is Cogito's first git project
